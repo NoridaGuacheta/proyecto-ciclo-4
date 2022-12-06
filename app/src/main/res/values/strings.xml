@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reporte síntomas</string>
+    <string name="txt_boton1">INGRESAR</string>
+    <string name="txt_boton2">REGISTRO</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellidos">Apellidos</string>
+    <string name="txt_programa">Programa</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_documento">Número de Documento</string>
+    <string name="txt_estudiante">Estudiante</string>
+    <string name="txt_profesor">Profesor</string>
+    <string name="txt_boton3">REGISTRAR</string>
+    <string name="txt_boton4">CANCELAR</string>
+    <string name="txt_boton5">Tomar foto</string>
+    <string name="txt_boton6">INGRESAR</string>
+    <string name="txt_boton7">CANCELAR</string>
+</resources>
