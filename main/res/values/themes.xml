@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.University" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ABC2</item>
+        <item name="colorPrimaryDark">@color/ABC1</item>
+        <item name="colorAccent">@color/ABC3</item>
+        <item name="android:textColorPrimary">@color/ABC3</item>
+    </style>
+</resources>
