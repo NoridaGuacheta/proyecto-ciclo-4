@@ -14,4 +14,23 @@
     <string name="txt_boton5">Tomar foto</string>
     <string name="txt_boton6">INGRESAR</string>
     <string name="txt_boton7">CANCELAR</string>
-</resources>
+
+    <!--Interfaz Sintomas-->
+    <string name="textSinto">Tiene o ha tenido:</string>
+    <string name="textP1">¿Dolor de cabeza?</string>
+    <string name="radioButtonS1">SI</string>
+    <string name="radioButtonN1">NO</string>
+    <string name="textP2">¿Fiebre?</string>
+    <string name="radioButtonS2">SI</string>
+    <string name="radioButtonN2">NO</string>
+    <string name="buttonEnviar">ENVIAR</string>
+    <string name="buttonCancelar">CANCELAR</string>
+    <string name="imageButtonRegre">regresar</string>
+    <string name="imgP1">dolorCabeza</string>
+    <string name="imgCabeza">cabeza</string>
+    <string name="pru">prueba</string>
+    <string name="pru2">prueba2</string>
+    <string name="pru3">prueba3</string>
+    <string name="textP3">¿Tos?</string>
+    <string name="radioButtonS3">SI</string>
+    <string name="radioButtonN3">NO</string>
