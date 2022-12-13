@@ -20,7 +20,7 @@ public class Sintomas extends AppCompatActivity {
         btnEnviar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent3 = new Intent(Sintomas.this, Profesor.class);
+                Intent intent3 = new Intent(Sintomas.this, Ingreso.class); <!--aqui va elnombre del siguiente layout-->
                 startActivity(intent3);
             }
         });
